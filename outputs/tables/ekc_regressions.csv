@@ -1,0 +1,3 @@
+model,fixed_effects,b_log_gdp_pc,se_log_gdp_pc,b_log_gdp_pc_sq,se_log_gdp_pc_sq,p_value_sq,turning_point_gdp_pc,n_obs,r2
+(1) Pooled OLS,Year,3.9,0.468,-0.149,0.026,0.0,475096.0,5409,0.852
+(2) Two-way FE,Country + Year,3.454,0.454,-0.168,0.023,0.0,29990.0,5409,0.977

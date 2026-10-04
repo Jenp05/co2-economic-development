@@ -1,0 +1,6 @@
+region,countries,gdp_pc_median,co2_pc_median,co2_pc_mean,total_co2_mt
+Oceania,2,45198.0,10.4,10.4,416.0
+Europe,39,32069.8,5.7,5.8,5078.7
+Asia,46,13359.6,3.6,7.0,22227.2
+Americas,27,10206.8,2.4,4.1,7317.8
+Africa,50,2990.0,0.5,1.2,1438.0
